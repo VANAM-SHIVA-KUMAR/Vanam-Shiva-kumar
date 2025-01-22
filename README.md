@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **Low Latency, Web3, Block Chain**
 
-- 👨‍💻 All of my projects are available at [https://vanam-shiva-kumar.github.io/Portfolio](https://vanam-shiva-kumar.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://vanamshivakumar.vercel.app/](https://vanamshivakumar.vercel.app/)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
