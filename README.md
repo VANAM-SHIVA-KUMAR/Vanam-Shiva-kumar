@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vanam Shiva kumar</h1>
-<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | DS Intern @Infexial Software Solutions & @CodeClause | Hackathon Winner</h3>
+<h3 align="center">Aspiring Software Engineer | CS Student at SR University | Machine Learning, Data Science & Full-Stack Enthusiast | Infexial Software Solutions & CodeClause Intern| Hackathon Winner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VANAM-SHIVA-KUMAR&label=Profile%20views&color=0e75b6&style=flat" alt="VANAM-SHIVA-KUMAR" width="200" height="60"/>
